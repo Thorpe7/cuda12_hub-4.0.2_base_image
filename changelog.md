@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.0.7] - 11/21/2025
+### Modifications
+- Incremented version to trigger new build for JHub deployment.
+- Confirmed operational status of notebook image in JupyterHub environment.
+
+
 ## [0.0.6] - 11/21/2025
 ### Modifications
 - Image failing to load w/ JHub notebooks.
